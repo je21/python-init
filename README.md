@@ -1,2 +1,2 @@
 # python-init
-Version 1.0, 12/03/2105
+Version 1.1, 12/04/2105
